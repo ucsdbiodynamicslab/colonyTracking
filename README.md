@@ -20,7 +20,7 @@ A Python image analysis application for detecting, tracking, and measuring bacte
 ### From source
 
 ```bash
-git clone https://github.com/biodynamics/colonytracking.git
+git clone https://github.com/ucsdbiodynamicslab/colonyTracking.git
 cd colonytracking
 pip install -e .
 ```
@@ -257,9 +257,9 @@ If you use this software in your research, please cite:
 ```bibtex
 @software{colonytracking2026,
   title={Colony Tracking System},
-  author={Biodynamics Team},
+  author={Payton J Thomas},
   year={2026},
-  url={https://github.com/biodynamics/colonytracking}
+  url={https://github.com/ucsdbiodynamicslab/colonyTracking}
 }
 ```
 
